@@ -11,13 +11,8 @@
             "id": "96cd12b453675ed6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Knowledge Management/Building a Second Brain/The CODE Method/How PARA Works/PARA.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Knowledge Management/Building a Second Brain/The CODE Method/How PARA Works/PARA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal Knowledge Management/Building a Second Brain/The CODE Method/How PARA Works/PARA.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -132,26 +124,28 @@
   },
   "active": "96cd12b453675ed6",
   "lastOpenFiles": [
-    "README.md",
+    "Personal Knowledge Management/Building a Second Brain/What is a Second Brain ?.md",
+    "Personal Knowledge Management/Building a Second Brain/The CODE Method/How PARA Works/PARA.md",
+    "Personal Knowledge Management/Building a Second Brain/The CODE Method/Organize—Save for Actionability.md",
+    "Personal Knowledge Management/Building a Second Brain/The CODE Method/The CODE Method.md",
+    "Personal Knowledge Management/Building a Second Brain/What does a Second Brain do ?.md",
+    "Personal Knowledge Management/Building a Second Brain/Building a Second Brain.md",
+    "My Second Brain.md",
+    "Books",
+    "Personal Knowledge Management/Building a Second Brain/The CODE Method/Distill—Find the Essence.md",
+    "Personal Knowledge Management/Building a Second Brain/The CODE Method/How PARA Works/Kitchen Analogy.md",
     "Personal Knowledge Management/Building a Second Brain/The CODE Method/How PARA Works/Archives.md",
     "Personal Knowledge Management/Building a Second Brain/The CODE Method/How PARA Works/Projects.md",
     "Personal Knowledge Management/Building a Second Brain/The CODE Method/How PARA Works/Resources.md",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/How PARA Works/PARA.md",
     "Personal Knowledge Management/Building a Second Brain/The CODE Method/How PARA Works/Areas.md",
     "Personal Knowledge Management/Building a Second Brain/The CODE Method/Capture—Keep What Resonates.md",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/Organize—Save for Actionability.md",
     "Untitled.md",
     "Personal Knowledge Management/Building a Second Brain/The CODE Method/How PARA Works",
     "Personal Knowledge Management/Building a Second Brain/The CODE Method/Express—Show Your Work.md",
     "Personal Knowledge Management/Building a Second Brain/The CODE Method/How PARA works",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/The CODE Method.md",
     "Personal Knowledge Management/Building a Second Brain/The CODE Method/Organize.md",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/Distill—Find the Essence.md",
     "Personal Knowledge Management/Building a Second Brain/The CODE Method",
-    "Personal Knowledge Management/Building a Second Brain/What does a Second Brain do ?.md",
-    "Personal Knowledge Management/Building a Second Brain/Building a Second Brain.md",
-    "Personal Knowledge Management/Building a Second Brain/What is a Second Brain ?.md",
-    "Building_a_Second_Brain_A_Proven_Method_to_Organize_Your_Digital_Life_and_Unlock_Your_Creative_Potential_-_Tiago_Forte.pdf",
+    "Books/Building_a_Second_Brain_A_Proven_Method_to_Organize_Your_Digital_Life_and_Unlock_Your_Creative_Potential_-_Tiago_Forte.pdf",
     "Personal Knowledge Management",
     "Building a Second Brain/Untitled",
     "Personal Knowledge Management/Building a Second Brain"

@@ -2,6 +2,7 @@
 [[Areas]]
 [[Resources]]
 [[Archives]]
+[[Kitchen Analogy]]
 
 The temptation when initially capturing notes is to also try to decide where they should go and what they mean.
 
