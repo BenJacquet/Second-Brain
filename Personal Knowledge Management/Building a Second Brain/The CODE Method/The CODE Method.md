@@ -1,11 +1,13 @@
-[[Capture—Keep What Resonates]]
-[[Organize—Save for Actionability]]
-[[Distill—Find the Essence]]
-[[Express—Show Your Work]]
+[[1-Capture]]
+[[2-Organize]]
+[[3-Distill]]
+[[4-Express]]
 
 ## The Four Steps to Remembering What Matters
 
 They are exible and agnostic for any profession, role, or career and for whatever notetaking methods and platforms you prefer.
+
+![[Code.png]]
 
 ### Capture: Keep What Resonates
 
@@ -29,7 +31,6 @@ The best way to organize your notes is to **organize for action**, according to 
 Consider new information in terms of its utility, asking, “How is this going to help me move forward one of my current projects?”
 
 Organizing for action gives you a sense of tremendous clarity, because you know that everything you’re keeping actually has a purpose.
-
 You know that it aligns with your goals and priorities.
 
 **Instead of organizing being an obstacle to your productivity, it becomes a contributor to it.**
