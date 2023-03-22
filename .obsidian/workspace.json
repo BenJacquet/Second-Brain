@@ -11,11 +11,30 @@
             "id": "9b4227df0e52b7d8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal Knowledge Management/To Sort/Benchmark of market solutions for PKM.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "114379cc2b8d4cb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Knowledge Management/To Sort/Why you should not delegate information digestion to AI.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ontology/Ontology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ontology/Ontology.md"
+              }
             }
           }
         ]
@@ -124,7 +146,33 @@
   },
   "active": "13daaaadc2f35102",
   "lastOpenFiles": [
+    "Personal Knowledge Management/To Sort/Benchmark of market solutions for PKM.md",
+    "Ontology/Semantics.md",
+    "Personal Knowledge Management/To Sort/Why you should not delegate information digestion to AI.md",
+    "Personal Knowledge Management/To Sort/Web Ontology Language (OWL).md",
+    "Ontology/FOAF Demo.md",
+    "Personal Knowledge Management/To Sort",
+    "Ontology",
+    "Personal Knowledge Management/To Sort/Knowledge Ladder.md",
+    "Personal Knowledge Management/To Sort/Tacit Knowledge Externalization.md",
+    "Images/Obsidian Pricing.png",
+    "Images/Notion Pricing.png",
+    "Images/Evernote Pricing.png",
+    "Images/Confluence Pricing.png",
+    "Ontology/Semantic Technologies.md",
+    "Personal Knowledge Management/To Sort/Solutions for automating (parts of) capturing and providing experience based knowledge.md",
+    "Personal Knowledge Management/To Sort/Knowledge Management Strategies.md",
+    "Personal Knowledge Management/To Sort/Knowledge Managenent System Principles.md",
+    "Ontology/Ontology.md",
+    "Ontology/Resource Description Framework (RDF).md",
+    "Personal Knowledge Management/To Sort/From Information to Knowledge.md",
+    "Images/Externalization on Corporate Social Media.png",
+    "Images/Degrees of Tacit Knowledge.png",
+    "Untitled.md",
+    "Images/Application of Semantic Technology for Knowledge Engineering.png",
     "Personal Knowledge Management/Building a Second Brain/The CODE Method/The CODE Method.md",
+    "Images/Knowledge Ladder.png",
+    "Daily Box",
     "Personal Knowledge Management/Building a Second Brain/The Shift/Creative Execution/Divergence and Convergence/2-Hemingway Bridge.md",
     "Personal Knowledge Management/Building a Second Brain/The Shift/Creative Execution/Divergence and Convergence/1-Archipelago of Ideas.md",
     "Personal Knowledge Management/Building a Second Brain/The Shift/Creative Execution/Divergence and Convergence/3-Dial Down the Scope.md",
@@ -138,34 +186,10 @@
     "Images/Code+DC.png",
     "Images/Divergence&Convergence.png",
     "Personal Knowledge Management/Building a Second Brain/The Shift/Creative Execution",
-    "Images/Cover.png",
-    "Personal Knowledge Management/Building a Second Brain/What does a Second Brain do ?.md",
-    "Images/Folders.png",
-    "Images/PARA.png",
-    "Images/Code.png",
     "Images",
-    "folders 1.png",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/2-Organize/How PARA Works/PARA.md",
     "Personal Knowledge Management/Building a Second Brain/The Shift",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/4-Express/Protect your Attention.md",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/4-Express/Intermediate Packets.md",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/4-Express/Assembling Building Blocks.md",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/4-Express/How to Resurface and Reuse.md",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/4-Express/Three Stages of Expressing.md",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/4-Express/Collaborative Creativity.md",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/4-Express/Everything Is a Remix.md",
-    "Personal Knowledge Management/Building a Second Brain/What is a Second Brain ?.md",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/3-Distill/Quantum Notetaking.md",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/2-Organize/How PARA Works/Archives.md",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/2-Organize/How PARA Works/Areas.md",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/2-Organize/How PARA Works/Kitchen Analogy.md",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/2-Organize/How PARA Works/Projects.md",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/2-Organize/How PARA Works/Resources.md",
     "Personal Knowledge Management/Building a Second Brain/The CODE Method/4-Express",
     "Personal Knowledge Management/Building a Second Brain/The CODE Method/1-Capture",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/3-Distill",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/2-Organize",
-    "Books",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/2-Organize/How PARA Works"
+    "Personal Knowledge Management/Building a Second Brain/The CODE Method/3-Distill"
   ]
 }
