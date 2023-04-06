@@ -22,7 +22,8 @@
 - Il peut y avoir des cas où le client est trop avancé ou en retard sur la réflexion, il faut alors trouver comment compenser cet écart le plus rapidement possible pour que tout le monde soit aligné.
 
 ## Remarques:
-- Du mal à visualiser 
+- Conserver les catégories pour les Non Functional Requirements
+- Du mal à visualiser
 - Manque de recherche sur des cas d'utilisation de média
 - Pas assez de réflexion sur les ontologies.
 - Pas assez de reflexion sur le stockage.
