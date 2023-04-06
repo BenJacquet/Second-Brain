@@ -8,27 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b4227df0e52b7d8",
+            "id": "afa15b15e6113c8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Knowledge Management/To Sort/Benchmark of market solutions for PKM.md",
+                "file": "K3P/PKM - Customer Interview.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "114379cc2b8d4cb8",
+            "id": "f08d2206d2783774",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Knowledge Management/To Sort/Why you should not delegate information digestion to AI.md",
+                "file": "K3P/PKM - Design Sprint Update Interview.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ontology/Ontology.md",
+                "file": "K3P/PKM - Design Sprint Update Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ontology/Ontology.md"
+                "file": "K3P/PKM - Design Sprint Update Interview.md"
               }
             }
           }
@@ -144,52 +144,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13daaaadc2f35102",
+  "active": "f08d2206d2783774",
   "lastOpenFiles": [
+    "K3P/PKM - Customer Interview.md",
+    "K3P/PKM - Backlog.md",
+    "K3P/PKM - Design Sprint Update Interview.md",
+    "K3P/PKM - Ideas.md",
+    "Untitled.canvas",
+    "K3P/PKM - User Story Mapping.md",
+    "Daily Box/Data.com.md",
+    "Chat-GPT/Teaching Mode Prompt.md",
+    "Pragmatism.md",
+    "Untitled",
+    "2023-03-30.md",
+    "K3P/PKM - Questions.md",
+    "Semantic Web/Web Ontology Language (OWL).md",
+    "Semantic Web/RDFS.md",
+    "Semantic Web",
+    "K3P/Piscine - Improvements.md",
     "Personal Knowledge Management/To Sort/Benchmark of market solutions for PKM.md",
-    "Ontology/Semantics.md",
     "Personal Knowledge Management/To Sort/Why you should not delegate information digestion to AI.md",
-    "Personal Knowledge Management/To Sort/Web Ontology Language (OWL).md",
-    "Ontology/FOAF Demo.md",
+    "Daily Box/Designing a Corporate Knowledge Management System.md",
+    "Chat-GPT",
+    "K3P",
+    "Semantic Web/Ontology/Ontology.md",
+    "Semantic Web/Ontology/Semantics.md",
+    "Semantic Web/Ontology/FOAF Demo.md",
     "Personal Knowledge Management/To Sort",
-    "Ontology",
+    "Semantic Web/Ontology",
     "Personal Knowledge Management/To Sort/Knowledge Ladder.md",
     "Personal Knowledge Management/To Sort/Tacit Knowledge Externalization.md",
     "Images/Obsidian Pricing.png",
     "Images/Notion Pricing.png",
     "Images/Evernote Pricing.png",
     "Images/Confluence Pricing.png",
-    "Ontology/Semantic Technologies.md",
+    "Semantic Web/Ontology/Semantic Technologies.md",
     "Personal Knowledge Management/To Sort/Solutions for automating (parts of) capturing and providing experience based knowledge.md",
     "Personal Knowledge Management/To Sort/Knowledge Management Strategies.md",
     "Personal Knowledge Management/To Sort/Knowledge Managenent System Principles.md",
-    "Ontology/Ontology.md",
-    "Ontology/Resource Description Framework (RDF).md",
-    "Personal Knowledge Management/To Sort/From Information to Knowledge.md",
+    "Semantic Web/Ontology/Resource Description Framework (RDF).md",
     "Images/Externalization on Corporate Social Media.png",
     "Images/Degrees of Tacit Knowledge.png",
-    "Untitled.md",
     "Images/Application of Semantic Technology for Knowledge Engineering.png",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/The CODE Method.md",
     "Images/Knowledge Ladder.png",
     "Daily Box",
-    "Personal Knowledge Management/Building a Second Brain/The Shift/Creative Execution/Divergence and Convergence/2-Hemingway Bridge.md",
-    "Personal Knowledge Management/Building a Second Brain/The Shift/Creative Execution/Divergence and Convergence/1-Archipelago of Ideas.md",
-    "Personal Knowledge Management/Building a Second Brain/The Shift/Creative Execution/Divergence and Convergence/3-Dial Down the Scope.md",
-    "Personal Knowledge Management/Building a Second Brain/The Shift/Creative Execution/Divergence and Convergence/Divergence and Convergence.md",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/4-Express/4-Express.md",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/3-Distill/3-Distill.md",
-    "Personal Knowledge Management/Building a Second Brain/The Shift/Creative Execution/Creative Execution.md",
-    "Personal Knowledge Management/Building a Second Brain/The Shift/The Shift.md",
-    "Personal Knowledge Management/Building a Second Brain/Building a Second Brain.md",
     "Personal Knowledge Management/Building a Second Brain/The Shift/Creative Execution/Divergence and Convergence",
     "Images/Code+DC.png",
     "Images/Divergence&Convergence.png",
     "Personal Knowledge Management/Building a Second Brain/The Shift/Creative Execution",
-    "Images",
-    "Personal Knowledge Management/Building a Second Brain/The Shift",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/4-Express",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/1-Capture",
-    "Personal Knowledge Management/Building a Second Brain/The CODE Method/3-Distill"
+    "Images"
   ]
 }
