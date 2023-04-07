@@ -1,6 +1,11 @@
+Ontology in philosophy is the study of being.
 
-In computer science, an **ontonlogy** is a data model containing concepts and relationships, allowing knowledge modelization in a specific field or domain.
+Ontology in Computer Science is part of knowledge representation and reasoning. An ontology is a formal (i.e. in some logic) representation of knowledge about some domain that can be reasoned with. You can write ontologies in OWL, Prolog, KIF, or more. OWL has the most accessible tool support with Protege, OOPS!, VOWL, and WIDOCO.
 
-Concepts are generally organized as such:
-- Semantic relationships
-- Subsumption relationships
+RDF is the most basic of the semantic web namespaces (semantic web is not synonymous with ontology). A namespace is a collection of terms. RDF is a collection of terms to describe resources. So it contains terms to do that like rdf:resource, terms for description (rdf:about) and collections. It doesn't contain sufficient terms to define subsumption and instantiation, which are central to ontology. But it does contain terms that are useful for dealing with triples and it was inline with the goals of the semantic web community, so an new namespace was developed to get closer to those lofty ontology-with-semantic-web goals: rdfs.
+
+RDFS is the Resource Description Framework Schema, it's another vocabulary namespace. It gives us the terms to define classes (rdfs:Class), subclasses (rdfs:subClassOf), and instances (rdf:type). Now we can define things recognisable as ontologies using semantic web technologies. But the researchers weren't done yet. An effort to make use of what was being learnt in the description logics and frames communities was undertaken to develop a more expressive and computable vocabulary, which is OWL.
+
+OWL is the Web Ontology Language, it's yet another vocabulary namespace. It's more expressive with far more terms, but rather than redefine what came before with RDF and RDFS, it just re-uses those appropriate terms. With OWL you can choose different variants with trade-offs between expression and computation speed. OWL is probably the most popular of the ontology languages, but it's not the most expressive. The few grey-hairs I know who've worked with ontologies outside of the ivory towers typically only use semantic web languages for data-transfer, but use logic programming languages for the reasoning, that may be because I spend a fair bit of time in logic programming circles though.
+
+So an ontology is a particular way of defining some representation of some knowledge. This typically means classes and instances, subsumption, and predicates that can have properties such as being transitive or symmetric. RDF, RDFS and OWL are namespaces that contain terms that can be used to author an ontology. Additional tools exist to reason with ontologies written using the terms defined in these namespaces, so an ontology written in OWL can be queried with SPARQL via a tool, or reasoned over with Pellet, Hermit, or Prolog. But an ontology could also be written just in Prolog.
