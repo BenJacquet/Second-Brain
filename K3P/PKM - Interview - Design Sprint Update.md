@@ -13,7 +13,7 @@
 - Écran de creation de la note (sujet, titre, etc)
 
 ## Conseils:
-- (Avant-vente)En cas de blocage ne pas hésiter à partir sur des hypothèses par exemple:
+- (Avant-vente) En cas de blocage ne pas hésiter à partir sur des hypothèses par exemple:
 	- J'ai pensé à ces deux cas de figure, on y rencontre ces problèmes là et j'ai pensé à ces solutions...
 - Ne jamais assumer que le client n'a pas le temps pour des interview car celà pourrait donner vie à une solution qui s'écarte de son besoin, si il ne se montre pas assez disponible:
 	- Aborder celà de son point de vue, lui faire penser au temps, l'argent perdus. 
@@ -34,15 +34,15 @@
 - Manque de recherche sur des cas d'utilisation de média
 - Pas assez de réflexion sur les ontologies.
 - Pas assez de reflexion sur le stockage.
-- Quelles bases de données ? Que vont-elles stocker ? Pourquoi ?
 
 ## Points à explorer:
 
 ### Propres au projet:
+- Quelles bases de données ? Que vont-elles stocker ? Pourquoi ?
 - Stockage d'une image ou un autre média ? Que faire de l'image elle meme ? Ou elle sera stockée ? Où seront stockées les métadonnées ?
 - Note dont on modifie le contenu et qui ne reflete plus du tout ses métadonées ?
 - Enrichissement des métadonnées, manuellement dès la création avec un sujet, des tags, dossier, puis automatiquement par IA à chaque mise à jour.
-- À quel moment se positionner pour capturer l'information.
+- À quel moment se positionner pour capturer l'information ?
 - Comment faciliter l'accès à des solutions depuis notre puits de connaissances ?
 - Comment proposer une experience aussi fluide que l'ajout d'un bookmark ?
 - Comment garantir qu'une information est exploitable après sa capture ?
@@ -55,3 +55,4 @@
 ### Marketing:
 - Market Fit
 - Market Research
+
