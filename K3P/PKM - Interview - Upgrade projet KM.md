@@ -37,9 +37,9 @@ Conseils:
 - À chaque étape, se demander son utilité pour le "Why"
 
 What : Voir l'ensemble de mes experience passées via:
-NLP - Sortie quasi instantanée
-FTS - Full Text Search
-Navigation - 
+- NLP - Sortie quasi instantanée
+- FTS - Full Text Search
+- Navigation 
 
 Accès à tout grâce au contexte (ressources, factures, charts, repo, etc)
 
