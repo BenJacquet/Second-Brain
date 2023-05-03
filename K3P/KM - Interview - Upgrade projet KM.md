@@ -23,7 +23,7 @@ Suivre cet ordre:
 	- How (Will I do it)?
 	- With What (Will I do it)?
 
-# Must-Have skills before moving on
+# Must-Have before moving on
 
 ## 1 - Reflechir dans l'espace probleme est la première étape
 À explorer:
