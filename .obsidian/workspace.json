@@ -10,70 +10,30 @@
           {
             "id": "90d5fbfb538ca340",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Knowledge Management/Knowledge Management Systems Information and Communication Technologies for Knowledge Management/Facts.md",
+                "file": "Objectifs/Keiken.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "6b8030bc2ddda5c8",
+            "id": "721faa005bbdd873",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Personal Knowledge Management/Knowledge Management Systems Information and Communication Technologies for Knowledge Management/Types of Learners.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5fba67516c8fdfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Box/Data Loss Prevention.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aedc737e600e9a93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "K3P/KM - Ideas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6f6b45ee9266a56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "K3P/KM - Attention Perspective.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "0 - Images/Capture d’écran 2023-05-12 à 11.36.29.png"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,6 +78,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "920f74b0ac9305e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -143,54 +111,53 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "aedc737e600e9a93",
+  "active": "721faa005bbdd873",
   "lastOpenFiles": [
+    "Objectifs/Keiken.md",
+    "0 - Images/Capture d’écran 2023-05-12 à 11.36.29.png",
+    "Certifications/AWS (SAA-C03)/Foundations/6 - Security.md",
+    "Certifications/AWS (SAA-C03)/Foundations/1 - What is cloud computing.md",
+    "Certifications/AWS (SAA-C03)/Foundations/2 - Types of Cloud Computing.md",
+    "Certifications/AWS (SAA-C03)/Foundations/3 - Infrastructure as code (IaC).md",
+    "Certifications/AWS (SAA-C03)/Foundations/4 - How to interact with AWS.md",
+    "Certifications/AWS (SAA-C03)/Foundations/5 - Well-Architected Infrastructure.md",
+    "0 - Images/Capture d’écran 2023-05-12 à 12.01.54.png",
+    "Certifications/AWS (SAA-C03)/Foundations",
+    "0 - Images/Capture d’écran 2023-05-12 à 11.46.43.png",
+    "0 - Images/Capture d’écran 2023-05-12 à 11.41.17.png",
+    "0 - Images/Capture d’écran 2023-05-12 à 11.36.54.png",
     "K3P/KM - Workshop - 2 Mai 2023.md",
+    "Daily Box/Weekly.md",
+    "Objectifs",
+    "Certifications/Untitled.md",
+    "Certifications/AWS (SAA-C03)",
+    "Personal Knowledge Management/Knowledge Management Systems Information and Communication Technologies for Knowledge Management/Types of Learners.md",
+    "Certifications",
+    "Sales/Conseil.md",
+    "K3P/KM - Attention Perspective.md",
+    "Personal Knowledge Management/Knowledge Management Systems Information and Communication Technologies for Knowledge Management/Facts.md",
+    "Pasted image 20230419135312.png",
+    "Daily Box/Tribe.md",
+    "Daily Box/Pragmatisme.md",
     "K3P/KM - Ideas.md",
     "K3P/KM - Interview - Upgrade projet KM.md",
     "K3P/KM - Interview - Design Sprint Update.md",
-    "K3P/KM - Attention Perspective.md",
     "K3P/Piscine - Improvements.md",
     "Personal Knowledge Management/Knowledge Management Systems Information and Communication Technologies for Knowledge Management/Success Factors of a Knowledge Management Platform.md",
     "Personal Knowledge Management/Knowledge Management Systems Information and Communication Technologies for Knowledge Management/Goals KM initiatives could aim.md",
-    "Personal Knowledge Management/Knowledge Management Systems Information and Communication Technologies for Knowledge Management/Facts.md",
     "Personal Knowledge Management/Knowledge Management Systems Information and Communication Technologies for Knowledge Management/Definition of Knowledge.md",
     "Personal Knowledge Management/Knowledge Management Systems Information and Communication Technologies for Knowledge Management/Acronyms.md",
     "Personal Knowledge Management/Knowledge Management Systems Information and Communication Technologies for Knowledge Management/Barriers to a Knowledge Management Platform.md",
-    "Personal Knowledge Management/Knowledge Management Systems Information and Communication Technologies for Knowledge Management/Business justification for knowledge management.md",
-    "Daily Box/Data Loss Prevention.md",
-    "Personal Knowledge Management/Knowledge Management Systems Information and Communication Technologies for Knowledge Management/Types of Learners.md",
-    "K3P/KM - Backlog.md",
-    "Daily Box/Designing a Corporate Knowledge Management System.md",
-    "Daily Box/The decline of productivity and attention capacity in the digital era.md",
-    "Daily Box/The importance of dreams.md",
-    "Day Planners/0 - Work Day Template.md",
-    "Day Planners/Day Planner-20230501.md",
-    "Day Planners/Day Planner-20230426.md",
-    "K3P/KM - Customer Interview.md",
-    "Day Planners/Day Planner-20230428.md",
-    "Day Planners/Day Planner-20230430.md",
-    "Day Planners/Day Planner-20230429.md",
     "Day Planners",
     "Planning",
-    "Pasted image 20230419135312.png",
     "Personal Knowledge Management/Knowledge Management Systems Information and Communication Technologies for Knowledge Management",
     "Sales",
     "Conférences",
     "Devoxx 2023",
     "Untitled.canvas",
-    "Semantic Web",
-    "Chat-GPT",
-    "K3P",
-    "Personal Knowledge Management/To Sort",
-    "Images/Obsidian Pricing.png",
-    "Images/Notion Pricing.png",
-    "Images/Evernote Pricing.png",
-    "Images/Confluence Pricing.png",
-    "Images/Externalization on Corporate Social Media.png",
-    "Images/Degrees of Tacit Knowledge.png",
-    "Images/Application of Semantic Technology for Knowledge Engineering.png",
-    "Images/Knowledge Ladder.png",
-    "Images/Code+DC.png"
+    "0 - Images/Obsidian Pricing.png",
+    "0 - Images/Notion Pricing.png",
+    "0 - Images/Evernote Pricing.png",
+    "0 - Images/Confluence Pricing.png"
   ]
 }
