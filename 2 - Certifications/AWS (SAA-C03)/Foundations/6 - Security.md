@@ -17,3 +17,9 @@ This short summary of cloud security introduces core concepts only. Browse the *
 Being responsible for security of the cloud means that AWS protects and secures the infrastructure that runs the services offered in the AWS Cloud. AWS is responsible for:
 -   Protecting and securing AWS Regions, Availability Zones, and data centers, down to the physical security of the buildings
 -   Managing the hardware, software, and networking components that run AWS services, such as the physical servers, host operating systems, virtualization layers, and AWS networking components.
+
+The level of responsability of AWS depends on the service, they can be classified in three groups as shown below: 
+ ![[Capture d’écran 2023-05-15 à 17.11.52.png]]
+
+### Authentification - Are you who you pretend you are ?
+### Authorization - What actions can you do ?

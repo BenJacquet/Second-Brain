@@ -1,0 +1,27 @@
+- Use case: Same as RDS with less maintenance, more flexibility, performance and features
+
+- Compatible API for PostgreSQL and MySQL
+- Storage and Compute are separated:
+	- Storage: 
+		- Data is stored across 6 replicas (in 3 AZs)
+		- High availability
+		- Self-healing
+		- Auto scaling
+	- Compute:
+		- Cluster of DB instance across multiple AZs
+		- Auto scaling of Read replicas
+	- Cluster:
+		- Custom endpoints for reader and writer DB instances
+- Same security as RDS
+
+- Features:
+	- Aurora Serverless:
+		- Intermittent and unpredictable workloads (no capacity planning)
+	- Aurora Multi-Master:
+		- For continuous write failovers (high write availability)
+	- Aurora Global:
+		-  Up to 16 DB Read instance in each region
+	- Aurora Machine Learning:
+		- Perform ML using SageMaker and Comprehend
+	- Aurora Database Cloning:
+		- Create a new cluster from an existing one (faster than a snapshot)

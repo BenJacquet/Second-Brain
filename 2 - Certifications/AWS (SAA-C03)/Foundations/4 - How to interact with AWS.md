@@ -1,4 +1,7 @@
 Instead of physically managing infrastructure, you logically manage it, through the AWS Application Programming Interface (AWS API).
+
+Every interaction with AWS is an authenticated and authorized **API call**.
+
 When you create, delete, or change any AWS resource, you will use API calls to AWS to do that.
 
 ### You can make these API calls in several ways:
